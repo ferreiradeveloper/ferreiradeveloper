@@ -20,10 +20,7 @@ Hola, soy Francisco, un apasionado profesional de la tecnología con más de 30 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ferreiradeveloper&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=ferreiradeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ferreiradeveloper&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
